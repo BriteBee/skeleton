@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
-Theme Name: Insight
-Theme URI: https://github.com/BriteBee/insight
+Theme Name: Skeleton
+Theme URI: https://github.com/BriteBee/skeleton
 Author: Noah Buscher
 Author URI: https://noahbuscher.com
 Description: Insight Thermography theme.
@@ -10,13 +10,13 @@ Version: 1.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 Text Domain: honey
-Tags: simple, colorful, thermography, medical
+
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
 /**
- * Base
+
  */
 html, body {
   margin: 0;
